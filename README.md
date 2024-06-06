@@ -10,7 +10,7 @@ After that, Open the source folder on code editor with Terminal, then install no
 npm install
 ```
 
-First, run the development server:
+Then, Run the development server:
 ```bash
 npm run dev
 # or
