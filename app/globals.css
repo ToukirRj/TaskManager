@@ -3,9 +3,3 @@
 @tailwind components;
 @tailwind utilities;
 
-
-input,textarea{
-    &:focus-visible{
-        box-shadow:none!important;
-    }
-}
