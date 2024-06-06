@@ -119,7 +119,7 @@ const TaskManager: React.FC = () => {
         {filteredTasks.length === 0 && (
           <div className="my-4 w-full text-center font-medium text-red-500">No tasks available!</div>
         )}
-        <div className='grid grid-cols-3 gap-4'>
+        <div className='grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4'>
           {filteredTasks.map(task => (
             <div key={task.id} className='bg-white rounded-lg relative p-4 shadow-lg'>
 

@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className='bg-[#EBEAE6] min-h-[100vh] pt-10'>
+      <main className='bg-[#EBEAE6] min-h-[100vh] py-10 px-3'>
         <TaskManager />
       </main>
     </div>
