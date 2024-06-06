@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project with [`create-next-app`](https:
 First, download the latest Node.js prebuilt installer from [`Node.js prebuilt installer`](https://nodejs.org/en/download/prebuilt-installer).
 Then install the downloaded file on your machine.
 
-After that, Open the source file on code editor with Terminal, then install node modules by:
+After that, Open the source folder on code editor with Terminal, then install node modules by:
 ```bash
 npm install
 ```
