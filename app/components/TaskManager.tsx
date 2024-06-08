@@ -93,7 +93,7 @@ const TaskManager: React.FC = () => {
     <div className='max-w-6xl mx-auto w-full bg-white rounded-[15px] p-4'>
 
       <div className='flex justify-between items-center'>
-        <h2 className='text-2xl font-bold leading-9 tracking-tight text-gray-900'>Task Manager</h2>
+        <h2 className='text-2xl font-bold leading-9 tracking-tight text-gray-900'>Task Management</h2>
         <button onClick={openModal} className='rounded-md flex items-center bg-indigo-600 px-3.5 py-2 text-sm font-semibold text-white shadow-md hover:bg-indigo-500'>
           <Icon className='text-white me-1' icon="gridicons:add" width="16" height="16"/>
           Add Task
